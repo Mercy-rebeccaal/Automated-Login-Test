@@ -31,25 +31,6 @@ To validate the login functionality by executing:
 - Username: standard_user
 - Password: secret_sauce
 
-## Project Structure
-Task-03-Automated-Login-Test/
-│
-├── test_login.py
-├── screenshots/
-│   ├── valid_login.png
-│   ├── invalid_username.png
-│   ├── invalid_password.png
-│   ├── empty_fields.png
-│
-├── README.md
-
-## Screenshots Included
-- Login page before execution
-- Successful login (Inventory page)
-- Error message for invalid username
-- Error message for invalid password
-- Validation message for empty fields
-
 ## Expected Result
 - Valid credentials should redirect the user to the inventory page.
 - Invalid or empty credentials should display appropriate error messages.
