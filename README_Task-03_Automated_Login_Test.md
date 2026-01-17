@@ -37,7 +37,3 @@ To validate the login functionality by executing:
 
 ## Conclusion
 All test cases were executed successfully. The login functionality behaves as expected for both positive and negative scenarios.
-
-## Author
-Mercy Rebeccal D
-Software Testing Intern
